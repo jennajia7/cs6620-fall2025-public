@@ -1,5 +1,5 @@
 # In your Flask app file, update a comment or add a version identifier:
-# Version: 1.0.1
+# Version: 1.0.2
 # Built with GitHub Actions
 
 import os
